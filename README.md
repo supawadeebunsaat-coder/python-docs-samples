@@ -1,4 +1,4 @@
-# Google Cloud Platform Python Samples
+ๆ# Google Cloud Platform Python Samples
 
 Python samples for [Google Cloud Platform products][cloud].
 
