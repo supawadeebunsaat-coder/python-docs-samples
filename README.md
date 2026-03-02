@@ -1,4 +1,4 @@
-# Google Cloud Platform Python Samples
+ๆ# Google Cloud Platform Python Samples
 
 Python samples for [Google Cloud Platform products][cloud].
 
@@ -56,7 +56,17 @@ Check out some of the samples found on this repository on the [Google Cloud Samp
 
 ## Contributing
 
-Contributions welcome! See the [Contributing Guide](CONTRIBUTING.md).
+Contributions welcome! See
+
+
+
+
+
+
+
+
+
+ the [Contributing Guide](CONTRIBUTING.md).
 
 [slack_badge]: https://img.shields.io/badge/slack-Google%20Cloud%20Platform-E01563.svg	
 [slack_link]: https://googlecloud-community.slack.com/
